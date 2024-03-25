@@ -12,6 +12,12 @@ sites:
     url: $STEAM_URL?key=$STEAM_TOKEN&appid=2858840
     icon: https://status.alchemyunbound.net/steam_icon.png
     maxResponseTime: 1000
+  - name: OpenAI API
+    url: $OPENAI_URL
+    headers:
+      - "Authorization: Bearer $OPENAI_TOKEN"
+    icon: https://status.alchemyunbound.net/openai_icon.png
+    maxResponseTime: 2000
 
 status-website:
   cname: status.alchemyunbound.net
