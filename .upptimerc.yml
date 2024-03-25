@@ -31,6 +31,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/alchemy-unbound
 workflowSchedule:
+  graphs: "55 * * * *"
+  responseTime: "15,45 * * * *"
   uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
