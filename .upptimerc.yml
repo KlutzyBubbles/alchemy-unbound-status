@@ -9,7 +9,7 @@ sites:
 
 status-website:
   cname: status.alchemyunbound.net
-  themeUrl: https://raw.githubusercontent.com/KlutzyBubbles/alchemy-unbound-status/master/assets/theme.css
+  themeUrl: https://cdn.statically.io/gh/KlutzyBubbles/alchemy-unbound-status/master/assets/theme.css
   logoUrl: https://raw.githubusercontent.com/KlutzyBubbles/alchemy-unbound-status/master/assets/512x512.png
   name: Alchemy Unbound Status
   introMessage: Ideally it should not go down, but this is here to make sure you are not crazy if you are having issues. Status is checked every 10 minutes.
