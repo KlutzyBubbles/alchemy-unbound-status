@@ -5,9 +5,13 @@ sites:
   - name: Alchemy Unbound API
     url: $API_URL?token=$API_TOKEN
     icon: https://status.alchemyunbound.net/api_icon.png
+    maxResponseTime: 1000
+    assignees:
+      - KlutzyBubbles
   - name: Steam API
     url: $STEAM_URL?key=$STEAM_TOKEN&appid=2858840
     icon: https://status.alchemyunbound.net/steam_icon.png
+    maxResponseTime: 1000
 
 status-website:
   cname: status.alchemyunbound.net
