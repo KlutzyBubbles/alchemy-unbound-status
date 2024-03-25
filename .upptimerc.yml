@@ -11,16 +11,15 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.alchemyunbound.net
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/KlutzyBubbles/alchemy-unbound-status/master/512x512.png
-  name: Alchemy Unbound
-  introTitle: "**Alchemy Unbound** status website."
+  themeUrl: https://raw.githubusercontent.com/KlutzyBubbles/alchemy-unbound-status/master/assets/theme.css
+  logoUrl: https://raw.githubusercontent.com/KlutzyBubbles/alchemy-unbound-status/master/assets/512x512.png
+  name: Alchemy Unbound Status
   introMessage: Ideally it should not go down, but this is here to make sure you are not crazy if you are having issues
   navbar:
-    - title: Status
-      href: /
+    - title: Steam Store
+      href: https://store.steampowered.com/app/2858840/Alchemy_Unbound/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/alchemy-unbound
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
