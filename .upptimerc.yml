@@ -20,6 +20,8 @@ status-website:
       href: https://store.steampowered.com/app/2858840/Alchemy_Unbound/
     - title: GitHub
       href: https://github.com/$OWNER/alchemy-unbound
+workflowSchedule:
+  uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
