@@ -24,7 +24,7 @@ status-website:
   themeUrl: https://status.alchemyunbound.net/theme.css
   logoUrl: https://status.alchemyunbound.net/api_icon.png
   name: Alchemy Unbound Status
-  introMessage: Ideally it should not go down, but this is here to make sure you are not crazy if you are having issues. Status is checked every 10 minutes.
+  introMessage: Ideally it should not go down, but this is here to make sure you are not crazy if you are having issues. Steam and OpenAI API status also include any rate limited issues, which means their API could be working but my connection isnt working. Status is checked every 10 minutes.
   navbar:
     - title: Steam Store
       href: https://store.steampowered.com/app/2858840/Alchemy_Unbound/
