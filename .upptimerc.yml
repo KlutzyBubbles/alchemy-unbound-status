@@ -2,8 +2,10 @@ owner: klutzybubbles
 repo: alchemy-unbound-status
 
 sites:
-  - name: API
-    url: https://api.alchemyunbound.net
+  - name: Alchemy Unbound API
+    url: $API_URL?token=$API_TOKEN
+  - name: Steam API
+    url: $STEAM_URL?key=$STEAM_TOKEN&appid=2858840
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
