@@ -51,18 +51,19 @@
     "url": "$OPENAI_URL",
     "icon": "https://status.alchemyunbound.net/openai_icon.png",
     "slug": "open-ai-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 148,
-    "timeDay": 168,
-    "timeWeek": 138,
-    "timeMonth": 151,
-    "timeYear": 148,
+    "time": 147,
+    "timeDay": 121,
+    "timeWeek": 130,
+    "timeMonth": 149,
+    "timeYear": 147,
     "dailyMinutesDown": {
+      "2024-05-23": 0,
       "2024-04-12": 6
     }
   }
