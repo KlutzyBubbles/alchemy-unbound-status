@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 196,
-    "timeWeek": 207,
-    "timeMonth": 209,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 228,
+    "timeWeek": 210,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-04-11": 28
     }
@@ -24,18 +24,19 @@
     "url": "$STEAM_URL?key=$STEAM_TOKEN&appid=2858840",
     "icon": "https://status.alchemyunbound.net/steam_icon.png",
     "slug": "steam-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 347,
-    "timeWeek": 332,
-    "timeMonth": 342,
+    "timeDay": 325,
+    "timeWeek": 331,
+    "timeMonth": 343,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2024-08-13": 0,
       "2024-03-26": 9
     }
   },
@@ -51,9 +52,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 178,
+    "timeDay": 175,
     "timeWeek": 175,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-07-18": 17,
