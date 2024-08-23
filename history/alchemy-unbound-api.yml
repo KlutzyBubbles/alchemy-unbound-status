@@ -1,7 +1,7 @@
 url: $API_URL?token=$API_TOKEN
 status: up
 code: 200
-responseTime: 373
-lastUpdated: 2024-08-23T14:21:42.157Z
+responseTime: 175
+lastUpdated: 2024-08-23T14:47:15.034Z
 startTime: 2024-03-25T06:37:26.372Z
 generator: Upptime <https://github.com/upptime/upptime>
