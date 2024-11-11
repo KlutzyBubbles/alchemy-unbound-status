@@ -4,18 +4,19 @@
     "url": "$API_URL?token=$API_TOKEN",
     "icon": "https://status.alchemyunbound.net/api_icon.png",
     "slug": "alchemy-unbound-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 210,
-    "timeWeek": 224,
+    "timeDay": 223,
+    "timeWeek": 227,
     "timeMonth": 231,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2024-11-11": 0,
       "2024-04-11": 28
     }
   },
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 323,
+    "timeDay": 322,
     "timeWeek": 308,
-    "timeMonth": 309,
+    "timeMonth": 308,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2024-03-26": 9
@@ -51,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 210,
-    "timeDay": 251,
-    "timeWeek": 250,
+    "timeDay": 254,
+    "timeWeek": 254,
     "timeMonth": 261,
     "timeYear": 210,
     "dailyMinutesDown": {
