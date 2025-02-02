@@ -1,7 +1,7 @@
 url: $STEAM_URL?key=$STEAM_TOKEN&appid=2858840
 status: up
 code: 200
-responseTime: 363
-lastUpdated: 2025-02-02T03:22:36.789Z
+responseTime: 353
+lastUpdated: 2025-02-02T03:47:08.310Z
 startTime: 2024-03-25T06:37:26.822Z
 generator: Upptime <https://github.com/upptime/upptime>
