@@ -1,7 +1,7 @@
 url: $API_URL?token=$API_TOKEN
 status: degraded
 code: 503
-responseTime: 288
-lastUpdated: 2025-03-06T20:22:25.239Z
+responseTime: 341
+lastUpdated: 2025-03-06T20:47:23.499Z
 startTime: 2024-03-25T06:37:26.372Z
 generator: Upptime <https://github.com/upptime/upptime>
