@@ -5,18 +5,19 @@
     "icon": "https://status.alchemyunbound.net/api_icon.png",
     "slug": "alchemy-unbound-api",
     "status": "degraded",
-    "uptime": "37.61%",
+    "uptime": "37.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 240,
-    "timeDay": 433,
-    "timeWeek": 271,
-    "timeMonth": 258,
+    "timeDay": 228,
+    "timeWeek": 265,
+    "timeMonth": 255,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-03-02": 25,
+      "2026-03-03": 26,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -379,8 +380,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 319,
-    "timeDay": 301,
-    "timeWeek": 248,
-    "timeMonth": 267,
+    "timeDay": 223,
+    "timeWeek": 246,
+    "timeMonth": 266,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-12-17": 22,
@@ -429,10 +429,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 349,
-    "timeDay": 467,
-    "timeWeek": 380,
-    "timeMonth": 377,
-    "timeYear": 351,
+    "timeDay": 372,
+    "timeWeek": 382,
+    "timeMonth": 372,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-08-12": 48
     }
