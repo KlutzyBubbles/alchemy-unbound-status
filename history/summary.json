@@ -16,7 +16,7 @@
     "timeMonth": 134,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-07-25": 687,
+      "2026-07-25": 742,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -418,20 +418,20 @@
     "url": "$OPENAI_URL",
     "icon": "https://status.alchemyunbound.net/openai_icon.png",
     "slug": "open-ai-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.42%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.96%",
     "time": 438,
-    "timeDay": 464,
-    "timeWeek": 390,
+    "timeDay": 451,
+    "timeWeek": 389,
     "timeMonth": 441,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-08-12": 48,
-      "2026-07-25": 84
+      "2026-07-25": 138
     }
   }
 ]
