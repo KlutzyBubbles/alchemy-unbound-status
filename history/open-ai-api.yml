@@ -1,7 +1,7 @@
 url: $OPENAI_URL
-status: down
-code: 500
-responseTime: 948
-lastUpdated: 2026-07-25T09:08:41.446Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2026-07-25T10:32:08.756Z
 startTime: 2024-03-25T09:40:11.822Z
 generator: Upptime <https://github.com/upptime/upptime>
